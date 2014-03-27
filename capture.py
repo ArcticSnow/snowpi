@@ -2,6 +2,9 @@
 import serial
 import time
 import os
+
+
+
 #locations=['/dev/ttyACM0','/dev/ttyACM1','/dev/ttyACM2','/dev/ttyACM3', '/dev/ttyS0','/dev/ttyS1','/dev/ttyS2','/dev/ttyS3'] 
 #for device in locations:device
 #    try:
